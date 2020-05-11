@@ -1,0 +1,3 @@
+[submodule "azure-search-knowledge-mining"]
+	path = azure-search-knowledge-mining
+	url = git@github.com:microsoft/azure-search-knowledge-mining.git
